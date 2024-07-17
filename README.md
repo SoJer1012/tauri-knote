@@ -31,3 +31,11 @@ pnpm tauri dev
 # 构建项目
 pnpm tauri build
 ```
+
+## 软件截图
+
+![image](https://github.com/wangshaojie1991/tauri-knote/blob/main/images/1.jpg)
+![image](https://github.com/wangshaojie1991/tauri-knote/blob/main/images/2.jpg)
+![image](https://github.com/wangshaojie1991/tauri-knote/blob/main/images/3.jpg)
+![image](https://github.com/wangshaojie1991/tauri-knote/blob/main/images/4.jpg)
+![image](https://github.com/wangshaojie1991/tauri-knote/blob/main/images/5.jpg)
