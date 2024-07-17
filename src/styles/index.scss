@@ -1,0 +1,8 @@
+@import './reset.scss';
+@import './public.scss';
+#app {
+  height: 100%;
+  .n-config-provider {
+    height: inherit;
+  }
+}
